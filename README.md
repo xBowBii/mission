@@ -6,4 +6,5 @@ create a folder called mission in your main mission folder "epoch.altis" where y
 then in your init add this 
 
 execVM "mission\txt.sqf";
+
 []execVM "mission\call_missions.sqf";
